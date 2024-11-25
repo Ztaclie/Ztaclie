@@ -16,6 +16,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ztaclie&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ztaclie&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztaclie&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ztaclie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Ztaclie" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ztaclie&theme=dracula&hide_border=false" alt="Ztaclie" width="440" />
+</div>
+
+<div align="center" style="text-align: center; margin-top: 10px;">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztaclie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ztaclie" width="420" />
+</div>
