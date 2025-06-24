@@ -18,7 +18,6 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ztaclie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Ztaclie" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ztaclie&theme=dracula&hide_border=false" alt="Ztaclie" width="440" />
 </div>
 
 <div align="center" style="text-align: center; margin-top: 10px;">  
