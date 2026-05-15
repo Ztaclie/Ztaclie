@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Developer at Atiker Yazılım.<br>👯 I’m looking to collaborate on interesting development projects, especially from my public repositories.<br>🤝 I’m seeking guidance and insights on MongoDB and Docker.<br>🌱 I’m actively learning ReactJS and exploring best practices for modern web apps.<br>💬 Feel free to ask me about Delphi FMX and Clomosy development.<br>⚡ Fun Fact: I’ve participated in multiple robotics and coding competitions during my studies!<br>
+🔭 I’m currently working as a Full-Stack Developer and Delphi Expert at Atiker Yazılım.<br>👯 I’m looking to collaborate on interesting development projects, especially from my public repositories.<br>🤝 I’m seeking guidance and insights on MongoDB and Docker.<br>🌱 I’m actively learning React.<br>💬 Feel free to ask me about Delphi FMX,TMS Web Core,TMS XData,Delphi VCL and Clomosy development.<br>⚡ Fun Fact: I’ve participated in multiple robotics and coding competitions during my studies!<br>
 
 [![](https://visitcount.itsvg.in/api?id=Ztaclie&icon=0&color=10)](https://visitcount.itsvg.in)
 
